@@ -17,3 +17,9 @@ Scenario: Subtract two numbers
 	And the second number is 70
 	When the two numbers are subtracted
 	Then the result should be 50
+
+Scenario: Multiply two numbers
+	Given the first number is 12
+	And the second number is 5
+	When the two numbers are multiplyed
+	Then the result should be 60
