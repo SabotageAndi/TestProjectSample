@@ -1,7 +1,4 @@
 ﻿using TechTalk.SpecFlow;
-using TestProject.OpenSDK.Drivers;
-using TestProject.OpenSDK.Drivers.Generic;
-using TestProject.OpenSDK.Drivers.Web;
 
 namespace TestProjectSample.Steps
 {
